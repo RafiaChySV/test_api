@@ -3,6 +3,7 @@
 	"message": "success",
 	"data": "Explore data",
 	"explore_data": {
+		"firt_time_donor": true,
 		"fixed_projects": [{
 				"id": 3,
 				"user_id": 1,
