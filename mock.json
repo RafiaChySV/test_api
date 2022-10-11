@@ -5,7 +5,7 @@
 	"explore_data": {
 		"first_time_donor": true,
 		"fixed_projects": [{
-			        "percentage_goal_reached": 0.6
+			        "percentage_goal_reached": 0.6,
 				"id": 3,
 				"user_id": 1,
 				"parent_id": 2,
@@ -92,6 +92,7 @@
 				]
 			},
 			{
+				"percentage_goal_reached": 0.6,
 				"id": 3,
 				"user_id": 1,
 				"parent_id": 2,
@@ -178,6 +179,7 @@
 				]
 			},
 			{
+				"percentage_goal_reached": 0.6,
 				"id": 3,
 				"user_id": 1,
 				"parent_id": 2,
@@ -264,6 +266,7 @@
 				]
 			},
 			{
+				"percentage_goal_reached": 0.6,
 				"id": 3,
 				"user_id": 1,
 				"parent_id": 2,
@@ -435,7 +438,7 @@
 
 				]
 			},
-			{
+			{       "percentage_goal_reached": 0.6,
 				"id": 3,
 				"user_id": 1,
 				"parent_id": 2,
